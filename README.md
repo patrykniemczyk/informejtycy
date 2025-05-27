@@ -5,3 +5,5 @@
 ## Original repositories
 
 Frontend: [repo](https://github.com/DawkaWody/Informejtycy), backend (code-checking): [repo](https://github.com/DawkaWody/Informejtycy-Checker)
+
+> If [informejtycy.pl](https://informejtycy.pl) is unavailable, you can access the mirror version at [patrykniemczyk.github.io/informejtycy](https://patrykniemczyk.github.io/informejtycy/), which serves as a static fallback of the platform. While it doesn’t support interactive code execution, it allows you to browse the lessons and get a feel for the platform’s structure and content.
